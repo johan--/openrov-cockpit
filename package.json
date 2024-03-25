@@ -15,7 +15,7 @@
     "bower": "",
     "ejs": "~0.8.3",
     "eventemitter2": "^0.4.14",
-    "express": "= 3.4.8",
+    "express": "= 4.19.2",
     "forever-monitor": "",
     "jquery-file-upload-middleware": "",
     "lazy": ">= 1.0.11",
